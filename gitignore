@@ -1,0 +1,10 @@
+# Ignore node_modules in both services
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore .env files
+backend/.env
+frontend/.env
+
+dist/
+build/
